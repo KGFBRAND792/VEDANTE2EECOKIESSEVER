@@ -1556,4 +1556,5 @@ else:
                     st.rerun()
 
 st.markdown('</div>', unsafe_allow_html=True)  # Close main-container
-st.markdown('<div class="footer">Made with ⚜️AVENGER'S VEDANT⚜️ | © 2026 All Rights Reserved</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Made with ⚜️AVENGERS VEDANT⚜️ | © 2026 All Rights Reserved</div>', unsafe_allow_html=True)
+

@@ -1042,7 +1042,7 @@ if st.sidebar.checkbox("🔐 Admin Login"):
     admin_password = st.sidebar.text_input("Admin Password", type="password", key="admin_password")
     
     if st.sidebar.button("Login as Admin"):
-        if admin_username == "YAMDHUD" and admin_password == "9MAN520":
+        if admin_username == "VEDANT" and admin_password == "VEDU155":
             st.session_state.admin_logged_in = True
             st.sidebar.success("Admin login successful!")
         else:
@@ -1557,4 +1557,5 @@ else:
 
 st.markdown('</div>', unsafe_allow_html=True)  # Close main-container
 st.markdown('<div class="footer">Made with ⚜️AVENGERS VEDANT⚜️ | © 2026 All Rights Reserved</div>', unsafe_allow_html=True)
+
 
